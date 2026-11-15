@@ -67,9 +67,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Frederico_Kiala&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico_Kiala&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
 <img src="https://streak-stats.demolab.com?user=Frederico_Kiala&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
